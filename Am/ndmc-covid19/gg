@@ -1,0 +1,120 @@
+
+            <!-- Earnings (Monthly) Card Example -->
+
+<!--            <div class="col-xl-3 col-md-6 mb-4">-->
+
+<!--              <div class="card border-left-warning shadow h-100 py-2">-->
+
+
+<!--                <div class="card-body">-->
+<!--                  <div class="row no-gutters align-items-center">-->
+<!--                    <div class="col mr-2">-->
+
+<!--                      <div class="text-xls font-weight-bold text-warning text-uppercase mb-1">Total Confirmed</div>-->
+<!--                      <div class="h5 mb-0 font-weight-bold text-gray-800"><?php echo $data1; ?></div>-->
+
+<!--                    </div>-->
+<!--                    <div class="col-auto">-->
+<!--                      <i class="fas fa-user-plus fa-4x text-gray-300"></i>-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+
+<!--              </div>-->
+<!--            </div>-->
+
+  <div class="col-xl-2 col-md-6 mb-5" style="opacity: 0.9">
+                  <div class="card bg-gradient-primary text-white shadow">
+                    <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+
+                    <div class="text-xs font-weight-bold  text-uppercase mb-1 ">ጠቅላላ የላቦራቶሪ ምርመራ</div>
+                        <div class="h5 mb-0 font-weight-bold text-white-800"><?php echo $data5; ?></div>
+
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-vials fa-2x text-gray-400"></i>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+       </div>
+
+               <div class="col-xl-2 col-md-6 mb-5" style="opacity: 0.9">
+                  <div class="card bg-gradient-warning text-white shadow">
+                    <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+
+                      <h5><div class="text-xs font-weight-bold  text-uppercase mb-1">በ ላብራቶሪ የተረጋገጠ</div></h5>
+                      <div class="h5 mb-0 font-weight-bold text-white-800"><?php echo $data1; ?></div>
+
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-user-plus fa-2x text-gray-400"></i>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
+
+
+
+               <div class="col-xl-2 col-md-6 mb-5" style="opacity: 0.9">
+                  <div class="card bg-gradient-success text-white shadow">
+                    <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">ከቫይረሱ ያገገሙ</div>
+                      <div class="h5 mb-0 font-weight-bold text-white-800"><?php echo $data8; ?></div>
+
+                    </div>
+                    <div class="col-auto">
+                     <i class="fas fa-hand-holding-heart fa-2x text-gray-400"></i>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
+
+
+              <div class="col-xl-2 col-md-6 mb-5" style="opacity: 0.9">
+                  <div class="card bg-gradient-danger text-white shadow">
+                    <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+
+                     <div class="text-xs font-weight-bold  text-uppercase mb-1">ጠቅላላ ጽኑ ሕሙማን</div>
+                        <div class="h5 mb-0 font-weight-bold text-white-800"><?php echo $data4; ?></div>
+
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-procedures fa-2x text-gray-400"></i>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
+
+
+              <div class="col-xl-2 col-md-6 mb-5" style="opacity: 0.9">
+                  <div class="card bg-gradient-secondary text-white shadow">
+                    <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+
+                   <div class="text-xs font-weight-bold  text-uppercase mb-1 ">ጠቅላላ የሞቱ ሰዎች</div>
+                        <div class="h5 mb-0 font-weight-bold text-white-800"><?php echo $data3; ?></div>
+
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-skull-crossbones fa-2x text-gray-400"></i>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
+
+

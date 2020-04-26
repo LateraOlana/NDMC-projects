@@ -1,0 +1,23 @@
+
+---Downloaded files---
+The import files for: Import SKT Actor Lite Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://demosktthemes.com/free/actor
+Data file = /home/qrvywxos/public_html/demosktthemes.com/free/actor/wp-content/themes/skt-actor-lite/demo-content/demo-content.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Importing content---
+[WARNING] Failed to import "Title": Invalid post type photogallery
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Title": Invalid post type photogallery
+[WARNING] Failed to import "Title": Invalid post type photogallery
+[WARNING] Failed to import "Title": Invalid post type photogallery
+[WARNING] Failed to import "Title": Invalid post type photogallery
+[WARNING] Failed to import "Title": Invalid post type photogallery
+
+Max execution time after content import = 300
+
+---theme-demo-import/after_import---
+
